@@ -1,0 +1,5 @@
+# ignore packages
+elm-stuff/
+
+# ignore compiled project
+game-of-life.js 
