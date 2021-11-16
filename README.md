@@ -7,7 +7,7 @@ Clone the repo.
 Compile the project into JS code (make sure not to modify the index.html file). 
 To do it, use the following command from the root dir of the project:
 ```
-elm make src/Main.elm --output=game-of-life.jske src/Main.elm --output=game-of-life.js
+elm make src/Main.elm --output=game-of-life.js
 ```
 
 Start elm reactor 
